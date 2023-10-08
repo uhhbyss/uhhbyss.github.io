@@ -1,0 +1,30 @@
+/* Use a CSS selector to apply style(s) to at least one HTML tag */
+h1 {
+    font-family: Arial, sans-serif;
+    color: darkblue;
+}
+
+/* Create at least one class, apply it to at least two elements, and style it */
+.photo {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+/* Create at least one id, apply it to an element, and style it */
+#header {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+/* Use a CSS selector to change the color of <a> when you hover the cursor over it */
+a:hover {
+    color: red;
+}
+
+/* Change at least two box model properties of any tag, class, or id */
+#footer {
+    background-color: lightgray;
+    border-top: 5px solid black;
+    padding: 10px;
+}
